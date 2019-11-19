@@ -26,9 +26,10 @@ Parametrize functions
 
 * http://doc.pytest.org/en/latest/parametrize.html#parametrize
 
-Use tox to autoinstall the package and test that
+Use tox or nox to autoinstall the package and test that
 
 * https://tox.readthedocs.io/en/latest/
+* https://nox.readthedocs.io/en/latest/
 
 ## Code coverage
 
